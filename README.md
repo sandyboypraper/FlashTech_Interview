@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Steps:
 ### Clone this repositery
-### Make your own branch with name <your first name>_<your contact number>
+### Make your own branch with name "your_first_name_your contact number"
 ### Complete the task, and raise a PR.
 ### Any doubts? Contact your interviewer.
 
